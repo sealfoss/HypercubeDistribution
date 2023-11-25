@@ -1,3 +1,6 @@
+I'm switching to SideQuestVR distribution. Newer releases can be found at the following link:
+https://sidequestvr.com/app/26589/hypercube
+
 This is the distribution repo for Hypercube, an AR passthrough application for Meta Quest 3.
 
 This application uses pointer controls via your hands (no controllers).
